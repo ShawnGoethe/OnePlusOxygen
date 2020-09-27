@@ -44,6 +44,9 @@ Link：感谢[库安提供安卓包](https://www.coolapk.com/apk/com.mepride.enc
 - oneplus 7t
 - oxygenOS OP7T_O2_BATE_07
 
+目前发现的问题
+- zenmode无法登陆
+
 links:
 - [root方式](https://github.com/kiritoxkiriko/HookOPAccount)
 - [一加论坛](https://www.oneplusbbs.com/thread-5503658-1.html)
