@@ -3,6 +3,27 @@ record some story oxygen OS正常使用钱包公交卡,谷歌相机，加密门�
 
 🙏 会记录和一加的故事，欢迎PR，一起~~搞基~~搞机，添加一点小小的幸福感
 
+
+
+## 🎭 刷入 Magisk获取更多功能
+
+- 去掉开屏广告
+- 开启移植谷歌相机的[超广角、长焦](## Google Camera)
+- 抖音助手：1，下载无水印视频 2，下载高清音频 3，自动播放下一个 4，快捷复制文案 5，去除视频流广告 6，禁止更新弹窗 7，可重命名视频名称 8，跳过部分闪屏广告
+- AD快消：大部分app广告页跳过
+- Notigif：在消息面板添加gif/pictrue
+- 星空语音秀xp模块：去除微信QQ浏览器拦截
+- 腾爱优芒豆去广告
+- 知了：去除知乎广告
+- 微信分组
+- 钉钉打卡
+- 为运动-微信步数修改
+- [more](https://repo.xposed.info/module-overview)
+
+Link:[Magisk官网](https://magiskmanager.com/)
+
+
+
 ## 🎧 7T与W51
 
 `更新与20200917`
@@ -24,9 +45,11 @@ w51确实是一款优秀的千元性价比耳机，pdd目前330附近，带降�
 
 [👉bili视频传送门](https://www.bilibili.com/video/BV1kK411N7YM/)
 
-最近发现了可以让一加7T使用的app，支持w51的弹窗，最方便的就是查看盒子的电量🔋，理论上支持所有安卓手机，下载见/apk/w51/目录下
+最近发现了可以让一加7T使用的app，**支持w51的弹窗**，最方便的就是查看盒子的电量🔋，理论上支持所有安卓手机，下载见/apk/w51/目录下
 
 Link：感谢[库安提供安卓包](https://www.coolapk.com/apk/com.mepride.encopop)
+
+
 
 ## 💰 Oneplus 7T氧钱包
 
@@ -46,6 +69,7 @@ Link：感谢[库安提供安卓包](https://www.coolapk.com/apk/com.mepride.enc
 
 目前发现的问题
 - zenmode无法登陆
+- 不知道什么时候一加账户被更新了🤷‍♂️（可能是升级BATE_08导致的），失效了`2020年10月10日`方法失效，卸载更新后，只能到version:2.7.1.0.0200820153838.36ec59c，之前生效的应该是2.3附近，请大家务必！！`不要更新系统`！！
 
 links:
 - [root方式](https://github.com/kiritoxkiriko/HookOPAccount)
@@ -53,7 +77,7 @@ links:
 
 
 
-## Google Camera
+## 📷 Google Camera
 
 以下示例为7T
 
@@ -80,12 +104,3 @@ link：[更多机型访问XDA](https://www.xda-developers.com/google-camera-port
 - IC+ID复合卡 滴滴滴，线圈矩形圆形叠加
 
 正常来说所有手机以及手环只能模拟IC卡（也有一些ID卡复制成功的文章，不过我没看懂，也没记下来地址）
-
-
-
-## 🎭 刷入 Magisk获取更多功能
-
-- 去掉开屏广告
-- 开启移植谷歌相机的[超广角、长焦](## Google Camera)
-
-Link:[Magisk官网](https://magiskmanager.com/)
