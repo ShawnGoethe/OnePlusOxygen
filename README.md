@@ -3,6 +3,14 @@ record some story oxygen OS正常使用钱包公交卡,谷歌相机，加密门�
 
 🙏 会记录和一加的故事，欢迎PR，一起~~搞基~~搞机，添加一点小小的幸福感
 
+## 🛒双11
+
+和20年618开高铁/叠蛋糕一样，跑脚本就可以了
+
+参考https://github.com/sleepybear1113/taobaoVisitingVenues
+
+
+
 
 
 ## 📱 安装MIUI 12
@@ -18,6 +26,22 @@ record some story oxygen OS正常使用钱包公交卡,谷歌相机，加密门�
 
 目前7t的维护版本是30元钱，我计划下周一发包的时候刷,到时候会出文章/视频讲一下我的感受，贴一下目前的[更新日志](https://docs.qq.com/doc/DSGRiTHVaTnhqUUJx)
 
+20201027已经安装了MIUI12
+
+- 系统体验不错，动画，小功能
+- 相机是谷歌相机，可能是小米/一加的不兼容，可以手动安装一加相机，但是显示比例不对（但不影响拍照）
+- 钱包是一加（OPPO）的钱包，没有小米钱包，但是还没有测试刷卡功能，待验证
+- 小爱同学出现过两次闪退
+- 设置里显示`默认或经典主题`可以使用双击亮屏锁屏，但我用的`经典`也不生效
+- 充电应该是兼容了dash，速度还可以，具体速度还需要测试
+- 说明书说wifi信号可能偏低，但目前没有出现感知，王者荣耀(wifi)测试无问题
+- 万象息屏不能一直开着，否则会烧屏
+- 待补充
+
+
+
+
+
 
 
 
@@ -30,11 +54,15 @@ record some story oxygen OS正常使用钱包公交卡,谷歌相机，加密门�
 
 
 
+
+
 ## ✈️ 安装Light start 非root免广告
 
 `更新与20201012`
 
 前往`豌豆荚`下载light start (轻启动)来跳过绝大部分开屏广告，非root方式
+
+
 
 
 
@@ -56,6 +84,8 @@ record some story oxygen OS正常使用钱包公交卡,谷歌相机，加密门�
 - [more](https://repo.xposed.info/module-overview)
 
 Link:[Magisk官网](https://magiskmanager.com/)
+
+
 
 
 
@@ -83,6 +113,8 @@ w51确实是一款优秀的千元性价比耳机，pdd目前330附近，带降�
 最近发现了可以让一加7T使用的app，**支持w51的弹窗**，最方便的就是查看盒子的电量🔋，理论上支持所有安卓手机，下载见/apk/w51/目录下
 
 Link：感谢[库安提供安卓包](https://www.coolapk.com/apk/com.mepride.encopop)
+
+
 
 
 
